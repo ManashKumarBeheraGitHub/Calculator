@@ -12,5 +12,5 @@ Screenshot-3
 
 <img src="https://user-images.githubusercontent.com/97502927/153275178-9a2295e8-1408-420c-ac02-4e8646681c8c.png" width="300" height="530">
 
-<h4>Thank You</h4> .
+<h4>Thank You</h4> 
 
